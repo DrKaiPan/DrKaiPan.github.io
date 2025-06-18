@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uts.edu.au/'>Robotics Institute, University of Technology Sydney, Sydney</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.uts.edu.au/research/centres/robotics-institute'>Robotics Institute, University of Technology Sydney, Sydney</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
