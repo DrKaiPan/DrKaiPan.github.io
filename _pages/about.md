@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uts.edu.au/'>University of Technology Sydney (UTS)</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.uts.edu.au/'>Robotics Institute, University of Technology Sydney, Sydney</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Robotics Institute</p>
-    <p>University of Technology Sydney</p>
-    <p>Sydney, Australia</p>
+    <p>Room 300, Level 9, Building 11</p>
+    <p>81-113 Broadway</p>
+    <p>Ultimo, NSW 2007, Australia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
