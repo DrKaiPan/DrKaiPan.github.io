@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.uts.edu.au/'>University of Technology Sydney (UTS)</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
