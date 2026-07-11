@@ -17,9 +17,15 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD candidate in Robotics and Computer Vision, currently conducting research in the fields of SLAM, 3D reconstruction, medical imaging, and surgical robotics. My work focuses on reconstructing anatomically consistent 3D structures from limited radiographic views, combining techniques such as multi-view learning, diffusion models, and graph-based representations. I am particularly interested in developing robust and clinically meaningful solutions to real-world problems in surgical planning and diagnostic imaging.
 
-My motivation stems from a desire to bridge engineering and healthcare—to build systems that not only advance robotic perception but also support clinicians in making more informed decisions. I have contributed to the understanding of radiographic 3D reconstruction using deep generative models, and my recent research has been accepted at top-tier conferences including ICRA and IROS.
+I am a PhD candidate in Robotics and Computer Vision, currently conducting research in the fields of SLAM, 3D reconstruction, medical imaging,
+and surgical robotics. My work focuses on reconstructing anatomically consistent 3D structures from limited radiographic views, combining techniques
+such as multi-view learning, diffusion models, and graph-based representations. I am particularly interested in developing robust and clinically
+meaningful solutions to real-world problems in surgical planning and diagnostic imaging.
+
+My motivation stems from a desire to bridge engineering and healthcare—to build systems that not only advance robotic perception but also support
+clinicians in making more informed decisions. I have contributed to the understanding of radiographic 3D reconstruction using deep generative models,
+and my recent research has been accepted at top-tier conferences including ICRA and IROS.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. %
