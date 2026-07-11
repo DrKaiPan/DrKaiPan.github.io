@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-IROS 2025 paper accepted :sparkles: :smile:
+IROS 2025 paper accepted
